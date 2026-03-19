@@ -22,27 +22,27 @@ def banner():
 ██╔═══╝ ██╔══██╗██║   ██║██║╚██╗██║██╔══╝     ██║   ██╔══██╗██╔══██║
 ██║     ██║  ██║╚██████╔╝██║ ╚████║███████╗   ██║   ██║  ██║██║  ██║
 ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
-\033[1;36m
+
         ⚡ ProNetra – Network Controller Interface ⚡
-\033[0m
-════════════════════════════════════════════════════════════
-\033[1;33m[ SYSTEM ]\033[0m  BusyBox Controller Mode Activated
-\033[1;33m[ AUTHOR ]\033[0m  SHIVAM_PRO
-\033[1;33m[ VERSION]\033[0m  v2.0 (Controller Build)
-\033[1;33m[ ENV    ]\033[0m  Termux / Linux
 
 ════════════════════════════════════════════════════════════
-\033[1;32m[ STATUS ]\033[0m  READY ✔
-\033[1;32m[ MODE   ]\033[0m  SCAN → CONNECT → INTERACT
-\033[1;32m[ CORE   ]\033[0m  SOCKET ENGINE ACTIVE
+>> SYSTEM: ProNetra Controller Mode Activated
+>> AUTHOR: SHIVAM_PRO
+>> VERSION: v2.0 (Controller Build)
+>> ENV: Termux / Linux
 
 ════════════════════════════════════════════════════════════
-\033[1;31m[ WARNING ]\033[0m  Authorized Lab Use Only
-\033[1;31m[ NOTE    ]\033[0m  Unauthorized access is prohibited
+>> STATUS: READY ✔
+>> SCAN → CONNECT → INTERACT
+>> SOCKET ENGINE ACTIVE
 
 ════════════════════════════════════════════════════════════
-\033[1;35m> Initializing Network Vision...\033[0m
-\033[1;35m> Awaiting Target Response...\033[0m
+WARNING: Authorized Lab Use Only
+NOTE: Unauthorized access is prohibited
+
+════════════════════════════════════════════════════════════
+>> Initializing Network Vision...
+>> Awaiting Target Response...
 ============================================================
 """)
 
