@@ -8,7 +8,7 @@ import time
 
 # ================= SETTINGS =================
 PORT = 4444
-BASE = "192.168.174."
+BASE = "192.168.1."
 START = 1
 END   = 254
 TIMEOUT = 1.5
