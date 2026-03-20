@@ -92,7 +92,6 @@ MIT License © 2026 SHIVAM_PRO
 If you like this project:
 
 - ⭐ Star the repo  
-- 🍴 Fork it  
 - 🧠 Learn & improve  
 
 ---
